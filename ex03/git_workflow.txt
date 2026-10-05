@@ -1,0 +1,4 @@
+cd ex03
+git add READE.md
+git commit -m "Update README"
+git push origin main
